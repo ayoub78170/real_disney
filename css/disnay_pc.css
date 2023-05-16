@@ -283,3 +283,13 @@ display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+
+footer p{
+color: silver;
+    /* font-size: 20px !important; */
+    margin-bottom: 20px;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px !important;}

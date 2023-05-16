@@ -278,6 +278,11 @@ li{
 }
 
 
+footer{
+    width: 1024px;
+    margin: auto;
+}
+
 footer ul{
 display: flex;
     flex-wrap: wrap;

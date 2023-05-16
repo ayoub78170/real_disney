@@ -131,6 +131,7 @@ img , .logo-kenobi{
 .logo{
     height: 65px;
     width: auto;
+margin: auto;
 }
 
 .logo , h3{
